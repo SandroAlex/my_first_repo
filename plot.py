@@ -6,7 +6,7 @@ t = np.linspace(0, 1, 1000)
 
 # Data parameters.
 A = 10
-omega0 = 10 * 10 * 10 * 10 * 10 * 10 * 10 * 10 * 10 * 10 * 2 * np.pi / np.max(t)
+omega0 = 10 * 2 * np.pi / np.max(t)
 tau = 2
 
 # Data.
