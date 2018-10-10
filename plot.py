@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 t = np.linspace(0, 1, 1000)
 
 # Data parameters.
-A = 10
+A = 0.1
 omega0 = 10 * 2 * np.pi / np.max(t)
 tau = 2
 
