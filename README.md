@@ -1,58 +1,25 @@
-# This is a large heading
+# Alex Sandro
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of São Paulo, in the state of São Paulo, in Brazil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+ - *Dom Quixote* by Miguel de Cervantes
+ - *O retrato de Dorian Gray* by Oscar Wilde
+ - *O discurso do método* by Rene Descartes
 
-```
-This is
-a block
-of code
-```
+### Food
 
-```shell
-#!/usr/bin/env bash
-# File: manyloops.sh
+Last night I dreamt about eating:
 
-echo "Explicit list:"
+1. Pizza 
+2. Pizza
+3. Pizza
 
-for picture in img001.jpg img002.jpg img666.jpg
-do
-    echo "Picture is equal to $picture"
-done
+### Contact
 
-echo ""
-echo "Array:"
-
-stooges=(curly larry moe)
-
-for stooge in ${stooges[*]}
-do
-    echo "Current stooge: $stooge"
-done
-
-echo ""
-echo "Command substitution:"
-
-for code in $(ls)
-do
-    echo "$code is a bash script"
-done
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [facebook](https://www.facebook.com).
