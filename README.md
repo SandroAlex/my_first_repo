@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in the city of São Paulo, in the state of São Paulo, in Brazil.
+I live in the city of São Paulo, in Brazil.
 
 ### Reading
 
